@@ -20,7 +20,7 @@ Hi 👋 My name is Ashishkumar Vishwakarma
 React Developer
 ---------------
 
-Frontend Developer at Quantasis | UI UX Designer | ReactJS | JavaScript | Wordpress
+ReactJS | JavaScript | Frontend Developer | UI UX Designer |  WordPress
 
 * 👯  I’m looking to collaborate on React Project
 * 🌍  I'm based in Mumbai
