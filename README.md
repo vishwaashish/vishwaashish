@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi 👋 My name is Ashishkumar Vishwakarma
+Hello There; Welcome 👋
 ========================================
 
-React Developer
----------------
+I'm a Frontend Developer that is passionate about sharing knowledge, building beautiful and responsive websites.
 
 ReactJS | JavaScript | Frontend Developer | UI UX Designer |  WordPress
 
-* 👯  I’m looking to collaborate on React Project
-* 🌍  I'm based in Mumbai
+* 👯  I’m looking to collaborate on Frontend Project
+* 💼  Job interests: Software Developer, Frontend Developer, React Developer, Angular Developer.
+* 😊  I am currently available for hire and open to new job opportunities.
 * 🖥️  See my portfolio at [My Portfolio](http://vishwaashish.github.io/Ashishkumar-vishwakarma/)
 * ✉️  You can contact me at [vishwakarmaashish165@gmail.com](mailto:vishwakarmaashish165@gmail.com)
 
